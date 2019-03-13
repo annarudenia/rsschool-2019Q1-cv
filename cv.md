@@ -2,7 +2,7 @@
 
 ### Junior front-end developer
 
-###### Contact me:
+###### **Contact me:**
 
 - *+375(29)1203650*
 

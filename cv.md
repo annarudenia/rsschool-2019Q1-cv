@@ -10,7 +10,7 @@
 
 - Skype: sunnyanneli
 
-- [Linkedin - Anna Rudenia](https://www.linkedin.com/in/anna-rudenia-3358bb109/)
+- *[Linkedin - Anna Rudenia](https://www.linkedin.com/in/anna-rudenia-3358bb109/)*
 
 ###### **Summary**
 
@@ -22,11 +22,11 @@ I have a basic knowledge of С, С++, С#, HTML, CSS. Little experience in the d
 
 ###### **Examples**
 
-[Padawans](http://52.58.130.134:4000/profile)
+*[Padawans](http://52.58.130.134:4000/profile)*
 
 ###### **Experience**
 
-I'm a newbie, so my examples can be viewed [Codecademy](https://www.codecademy.com/hannarudenia)
+I'm a newbie, so my examples can be viewed *[Codecademy](https://www.codecademy.com/hannarudenia)*
 
 ###### **Education**
 

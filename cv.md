@@ -4,11 +4,11 @@
 
 ###### Contact me:
 
-- +375(29)1203650
+- *+375(29)1203650*
 
-- angel-a_013@mail.ru
+- *angel-a_013@mail.ru*
 
-- Skype: sunnyanneli
+- *Skype: sunnyanneli*
 
 - *[Linkedin - Anna Rudenia](https://www.linkedin.com/in/anna-rudenia-3358bb109/)*
 

@@ -34,4 +34,4 @@ I lear Computer programming at Belarusian State University of Informatics and Ra
 
 ###### **English skills**
 
-I do not practice English every day. The company in which I work provides courses for learning and maintaining English for all employees. Currently, the courses are taught by a native speaker. I have an intermediate level of English. I started learning English at school, then at university, but I didn’t have a lot of language practice. At the moment I try to read, watch, listen to everything in English, in order to improve vocabulary.
+I do not practice English every day. The company in which I work provides courses for learning and maintaining English for all employees. Currently, the courses are taught by a native speaker. I have an intermediate level of English. I started learning English at school, then at university, but I don’t have a lot of language practice. At the moment I try to read, watch, listen to everything in English, in order to improve vocabulary.
